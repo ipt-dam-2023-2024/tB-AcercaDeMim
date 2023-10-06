@@ -18,4 +18,6 @@ Aliquam euismod, enim sit amet hendrerit posuere, mauris nisl varius massa, ut c
 \n\n
 Phasellus euismod orci eu lorem accumsan vehicula. Nulla ullamcorper, purus vitae molestie consectetur, justo eros sodales purus, vel tempus velit metus sed erat. Mauris rhoncus felis eu est tempus sollicitudin. Donec dignissim, risus vitae lobortis tristique, lacus diam sollicitudin orci, ac rutrum lacus augue sed felis. Mauris quis mauris a massa dapibus vehicula sit amet eget nunc. Vivamus odio purus, tempus eu mattis tempus, aliquam ut enim. Integer facilisis mattis dui, id imperdiet lacus lobortis lobortis. Ut ut consectetur massa, vel scelerisque orci. Quisque nec mi purus. Aliquam erat volutpat. Sed id mauris ac libero tempor lobortis. Sed mollis varius tortor, cursus elementum purus cursus in. Etiam cursus lectus vel commodo pulvinar. Mauris non aliquam urna. Cras a elit ultrices, consequat nunc at, tristique dui.
     </string>
+    <string name="legenda_edit_box">escreva o seu diminutivo</string>
+    <string name="button_text">Continuar...</string>
 </resources>
